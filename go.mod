@@ -55,7 +55,6 @@ require (
 	go.uber.org/zap v1.23.0
 	golang.org/x/crypto v0.3.0
 	golang.org/x/exp v0.0.0-20221126150942-6ab00d035af9
-	golang.org/x/net v0.2.0
 	golang.org/x/text v0.4.0
 	google.golang.org/grpc v1.51.0
 	gopkg.in/inf.v0 v0.9.1
@@ -73,7 +72,7 @@ require (
 	k8s.io/utils v0.0.0-20221128185143-99ec85e7a448
 	sigs.k8s.io/controller-runtime v0.13.1
 	sigs.k8s.io/kustomize/api v0.12.1
-	sigs.k8s.io/kustomize/kyaml v0.13.9
+	sigs.k8s.io/kustomize/kyaml v0.13.10
 	sigs.k8s.io/yaml v1.3.0
 )
 
@@ -345,6 +344,7 @@ require (
 	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
 	golang.org/x/mod v0.7.0 // indirect
+	golang.org/x/net v0.2.0 // indirect
 	golang.org/x/oauth2 v0.2.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/sys v0.2.0 // indirect
